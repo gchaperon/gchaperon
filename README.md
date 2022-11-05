@@ -17,7 +17,7 @@ These are papers I've implemented in my free time mostly.
 
 
 ### Learning
-I also like learning new languages or dive deeper into ones I know only a little bit. So here are repost where I track my progress and exercises.
+I also like learning new languages or dive deeper into ones I know only a little bit. So here are the repos where I track my progress and exercises.
 
 * [The C Programming Language](https://github.com/gchaperon/the-c-programming-language)
 
