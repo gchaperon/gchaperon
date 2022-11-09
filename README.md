@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 I'm Gabriel Chaperon, a Software/ML Engineer from [Santiago](https://en.wikipedia.org/wiki/Santiago). 
 
 
