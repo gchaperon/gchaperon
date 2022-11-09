@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Gabriel Chaperon, a Software Engineer from [Santiago](https://en.wikipedia.org/wiki/Santiago). 
+I'm Gabriel Chaperon, a Software/ML Engineer from [Santiago](https://en.wikipedia.org/wiki/Santiago). 
 
 
 Professionaly I've worked in backend services using AWS and the Serverless framework, doing mobile development using React Native, migratig RoR apps to a microservice based architecture on GCP, and also doing research in NLP, among others.
