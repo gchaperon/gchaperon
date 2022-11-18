@@ -13,7 +13,7 @@ These are papers I've implemented in my free time mostly.
 
 * [Neural State Machine](https://github.com/gchaperon/neural-state-machine)
 * [Pointer Networks](https://github.com/gchaperon/pointer-networks)
-* [Alexnet](https://github.com/gchaperon/alexnet)
+* [AlexNet](https://github.com/gchaperon/alexnet)
 
 
 ### Learning
@@ -24,10 +24,10 @@ I also like learning new languages or dive deeper into ones I know only a little
 
 ## Misc Info
 * 🔭 I’m currently working on multimodal and generative models (CLIP, Stable Diffusion, etc)
-* 🌱 I’m currently learning more about image processing tasks, like classification, object detection, desgmentation, etc.
+* 🌱 I’m currently learning more about image processing tasks, like classification, object detection, segmentation, etc.
 * 👯 I’m looking to collaborate on replicating state-of-the art papers
 * 🤔 I’m looking for help with Terraform!
-* 💬 Ask me about NLP!
+* 💬 Ask me about anything you like! Your best bet though to get a meaningful answer is to ask me about Deep Learning.
 * 📫 How to reach me: email! See in my short bio on the left.
  
 [![gchaperon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gchaperon)](https://github.com/anuraghazra/github-readme-stats)
