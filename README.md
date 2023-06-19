@@ -21,6 +21,13 @@ I also like learning new languages or dive deeper into ones I know only a little
 
 * [The C Programming Language](https://github.com/gchaperon/the-c-programming-language)
 
+### Various
+* [deep-learning-project-config](https://github.com/gchaperon/deep-learning-project-config):
+  A repo to try out ideas on how to configure deep learning proyects with many models and datasets.
+  I used tools like click, OmegaConf and rich. I also experimented with metaclasses.
+* [label-studio-deployment](https://github.com/gchaperon/label-studio-deployment):
+  A simple terraform + packer configuration to deploy [Label Studio](https://labelstud.io/) to a GCP Compute Engine instance.
+
 
 ## Misc Info
 * 🔭 I’m currently working on multimodal and generative models (CLIP, Stable Diffusion, etc)
