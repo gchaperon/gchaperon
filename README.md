@@ -14,6 +14,7 @@ These are papers I've implemented in my free time mostly.
 * [Neural State Machine](https://github.com/gchaperon/neural-state-machine)
 * [Pointer Networks](https://github.com/gchaperon/pointer-networks)
 * [AlexNet](https://github.com/gchaperon/alexnet)
+* (WIP) [Original Attention](https://github.com/gchaperon/align-and-translate)
 
 
 ### Learning
